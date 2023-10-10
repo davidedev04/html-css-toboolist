@@ -1,0 +1,64 @@
+
+/* stili generali */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+/* stili pagina */
+
+#up{
+    height: 70px;
+    background-color: white;
+}
+
+#title{
+    font-size: 35px;
+}
+
+.content{
+    background-color: white;
+    width: 70%;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-bottom: 1px solid rgb(245, 245, 245);
+}
+
+.content1{
+    background-color: white;
+    width: 70%;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.distance{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#button-task{
+    background-color: rgb(98, 195, 255);
+    color: white;
+    padding: 5px;
+    border-radius: 7px;
+    
+}
+
+#button-section{
+    background-color: white;
+    color: rgb(205, 205, 205);
+    padding: 5px;
+    border: 1px solid rgb(205, 205, 205);
+    border-radius: 7px;
+}
