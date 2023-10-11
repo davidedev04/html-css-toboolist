@@ -45,12 +45,16 @@ body {
     margin: 0 auto;
     margin-top: 50px;
     border-bottom: 2px solid rgb(245, 245, 245);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 
 .content1 {
     background-color: white;
     width: 70%;
     margin: 0 auto;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 
 .distance {
